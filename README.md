@@ -17,17 +17,7 @@ Python-разработчик и аналитик данных из Москвы
 
 ## 🚀 Проекты
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [StudySphere](https://github.com/dany-simonov/studysphere) | Образовательная платформа с AI-ассистентом (13 нейросетей), квизами и гибкой настройкой | Python, Flask, g4f, JS |
-| [Copilot-for-shopping](https://github.com/dany-simonov/copilot-for-shopping) | Ассистент для покупок: рекомендации, анализ цен, генерация описаний товаров | Python, Flask, AI |
-| [PyQt GUI Demo](https://github.com/dany-simonov/pyqt-gui-demo) | Пример десктопного приложения на PyQt | Python, PyQt |
-| [AI Quiz](https://github.com/dany-simonov/ai-quiz) | Интерактивные квизы с AI | Python, Flask, JS |
-| [Data Visualizer](https://github.com/dany-simonov/data-visualizer) | Визуализация данных с matplotlib | Python, matplotlib |
-| [Dockerized App](https://github.com/dany-simonov/docker-app) | Пример деплоя приложения в Docker | Python, Docker |
-| [Tested Project](https://github.com/dany-simonov/tested-project) | Проект с покрытием тестами | Python, pytest |
-| [Hackathon Projects](https://github.com/dany-simonov/hackathon-projects) | Сборник решений с хакатонов и дататонов | Python, аналитика |
-| [Skolkovo Internship](https://github.com/dany-simonov/skolkovo-internship) | Опыт стажировки: XML, 3D-моделирование, Figma, работа в команде | Python, Figma, 3D |
+---
 
 ---
 
