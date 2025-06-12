@@ -53,7 +53,7 @@ Python-разработчик и аналитик данных из Москвы
 | [Copilot-for-shopping](https://github.com/dany-simonov/Copilot-for-shopping) | AI-ассистент для покупок: рекомендации, анализ цен, генерация описаний товаров | Python, Flask, AI |
 | [AICA](https://github.com/dany-simonov/AICA) | Личный проект, возможно стартап, в разработке | Python, Flask, AI |
 | [benefit-ai-portal](https://github.com/dany-simonov/benefit-ai-portal) | MVP кафетерия льгот для компании, кейс чемпионата | Python, Flask, AI |
-| [AboutMe](dany-simonov.github.io/AboutMe/) | Личный сайт-портфолио с информацией обо мне и проектах | HTML, CSS, JavaScript |
+| [AboutMe](https://github.com/dany-simonov/AboutMe) | Личный сайт-портфолио с информацией обо мне и проектах | HTML, CSS, JavaScript |
 | [game-for-Yandex-Lyceum](https://github.com/dany-simonov/game-for-Yandex-Lyceum) | 2D платформер с уровнями, достижениями и анимациями, разработанный на Pygame | Python, Pygame, SQLite |
 | [QUANTUM-laboratory](https://github.com/dany-simonov/QUANTUM-laboratory) | Образовательная игра для школьников по физике, созданная для геймхака | Python, Pygame |
 | [YL_PYQT_project](https://github.com/dany-simonov/YL_PYQT_project) | Игра крестики-нолики с GUI на PyQt5 и SQLite, учебный проект из Яндекс.Лицея | Python, PyQt5, SQLite |
