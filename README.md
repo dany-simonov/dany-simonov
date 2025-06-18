@@ -25,13 +25,11 @@ Python-разработчик и аналитик данных из Москвы
 ---
 
 ### 🧰 Аналитика и визуализация
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-1ABCFE?style=for-the-badge&logo=miro&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
+![Miro](https://img.shields.io/badge/Miro-1ABCFE?style=for-the-badge&logo=miro&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ---
 
 ### 📊 Аналитика и тестирование гипотез
