@@ -48,7 +48,7 @@ Python-разработчик и аналитик данных из Москвы
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [StudySphere (SS)](https://github.com/dany-simonov/SS) | Образовательная платформа с AI-ассистентом на 13 нейросетях, интерактивные квизы и адаптивный фронтенд | Python, Flask, g4f, JavaScript |
-| [benefit-ai-portal](https://github.com/dany-simonov/benefit-ai-portal) | MVP кафетерия льгот для компании, кейс чемпионата | Python, Flask, AI |
+| [benefit-ai-portal](https://github.com/dany-simonov/benefit-ai-portal) | MVP кафетерия льгот для компании, кейс чемпионата | TypeScript, React, Node.js, PostgreSQL, AI |
 | [Copilot-for-shopping](https://github.com/dany-simonov/Copilot-for-shopping) | AI-ассистент для покупок: рекомендации, анализ цен, генерация описаний товаров | Python, Flask, AI |
 | [AICA](https://github.com/dany-simonov/AICA) | ИИ помощник для консультантов и аудиторов | Python, Flask, AI |
 | [AboutMe](https://github.com/dany-simonov/AboutMe) | Личный сайт-портфолио с информацией обо мне и проектах | HTML, CSS, JavaScript |
