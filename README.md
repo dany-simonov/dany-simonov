@@ -49,10 +49,11 @@ Python-разработчик и аналитик данных
 |--------|----------|------------|
 | [StudySphere (SS)](https://github.com/dany-simonov/SS) | Образовательная платформа с AI-ассистентом на 13 нейросетях, интерактивные квизы и адаптивный фронтенд | Python, Flask, g4f, JavaScript |
 | [benefit-ai-portal](https://github.com/dany-simonov/benefit-ai-portal) | MVP кафетерия льгот для компании, кейс чемпионата | TypeScript, React, Node.js, PostgreSQL, AI |
+| [krok-mvp]((https://github.com/dany-simonov/krok-mvp)) | MVP KrokOS Graph — это платформа для визуализации, мониторинга и управления инфраструктурой | TypeScript, React, Python, FastAPI, PostgreSQL|
 | [Copilot-for-shopping](https://github.com/dany-simonov/Copilot-for-shopping) | AI-ассистент для покупок: рекомендации, анализ цен, генерация описаний товаров | Python, Flask, AI |
 | [AICA](https://github.com/dany-simonov/AICA) | ИИ помощник для консультантов и аудиторов | Python, Flask, AI |
 | [AboutMe](https://github.com/dany-simonov/AboutMe) | Личный сайт-портфолио с информацией обо мне и проектах | HTML, CSS, JavaScript |
-| [game-for-Yandex-Lyceum](https://github.com/dany-simonov/game-for-Yandex-Lyceum) | 2D платформер с уровнями, достижениями и анимациями, разработанный на Pygame | Python, Pygame, SQLite |
+| [game-for-Yandex-Lyceum](https://github.com/dany-simonov/game-for-Yandex-Lyceum) | 2D платформер с уровнями, достижениями и анимациями, разработанный на Pygame, учебный проект из Яндекс.Лицея | Python, Pygame, SQLite |
 | [QUANTUM-laboratory](https://github.com/dany-simonov/QUANTUM-laboratory) | Образовательная игра для школьников по физике, созданная для геймхака | Python, Pygame |
 | [YL_PYQT_project](https://github.com/dany-simonov/YL_PYQT_project) | Игра крестики-нолики с GUI на PyQt5 и SQLite, учебный проект из Яндекс.Лицея | Python, PyQt5, SQLite |
 
@@ -62,8 +63,10 @@ Python-разработчик и аналитик данных
 
 - Призёр XVI Международного школьного конкурса РЭШ по экономике  
 - Топ-200 из 7619 участников на олимпиаде DANO (2024)  
-- Стажировка в “Спутникс” (Технопарк Сколково): программирование, 3D-моделирование, веб-дизайн, работа в центре управления полётами  
-- Участие в хакатонах: PROD “Т-Банка”, Nuclear IT Hack, IT Purple Hack (аналитика, разработка, UI/UX)  
+- Стажировка в “Спутникс” (Технопарк Сколково): программирование, 3D-моделирование, веб-дизайн, работа в центре управления полётами
+- Победитель хакатона Nuclear IT Hack 2025
+- Победитель кейс-чемпионата от компании «Передовые Платежные Решения» и партнёра Sbs Consulting
+- Участие в хакатонах: PROD, Nuclear IT Hack 2024, IT Purple Hack 2024 - 2025 (аналитика, разработка, UI/UX) и другие ...
 
 ---
 
