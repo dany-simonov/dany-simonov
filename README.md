@@ -65,8 +65,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dany-simonov&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&layout=compact&theme=radical)
 
----
-
-## ✨ Немного анимации
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F260&background=FFFFFF00&width=435&lines=Анимация)
