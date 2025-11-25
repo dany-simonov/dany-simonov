@@ -63,10 +63,15 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dany-simonov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/dany-simonov)
+<a href="https://github.com/dany-simonov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-simonov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/dany-simonov)
+</div>
 
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dany-simonov&theme=tokyonight&hide_border=true)](https://github.com/dany-simonov)
 
 </div>
