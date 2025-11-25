@@ -63,22 +63,21 @@
 
 <div align="center">
 
-<a href="https://github.com/dany-simonov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-simonov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-simonov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dany-simonov&theme=tokyonight&hide_border=true)](https://github.com/dany-simonov)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dany-simonov&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dany-simonov&theme=tokyonight&hide_border=true)](https://github.com/dany-simonov)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dany-simonov&theme=tokyonight)
 
 </div>
 
