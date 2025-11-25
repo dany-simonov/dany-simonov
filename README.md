@@ -62,12 +62,11 @@
 ## 📈 Моя статистика GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-simonov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dany-simonov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dany-simonov&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dany-simonov&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
