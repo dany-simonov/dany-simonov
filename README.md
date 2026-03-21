@@ -42,7 +42,6 @@ I work at the intersection of product thinking and engineering: I define the pro
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dany-simonov&theme=tokyonight)](https://github.com/dany-simonov)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dany-simonov&theme=tokyonight)](https://github.com/dany-simonov)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dany-simonov&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7)](https://github.com/dany-simonov)
 <br>
 
