@@ -1,78 +1,51 @@
-# 👋 Привет! Я Даня
 
-## 🛠️ Навыки и технологии
+# Daniil Simonov
 
-### 💻 Программирование и разработка
+**Technical Product Manager** I design and ship full-stack AI products end-to-end.  
+Economics & Data Science student · Moscow
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I work at the intersection of product thinking and engineering: I define the problem, architect the solution, and build it. My projects range from AI-powered media verification platforms to decentralized P2P communication systems.
 
 ---
 
-### 🧰 Аналитика и визуализация
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-1ABCFE?style=for-the-badge&logo=miro&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
----
+## 🚀 Featured Projects
 
-### 📊 Аналитика и тестирование гипотез
-
-![Unit Economics](https://img.shields.io/badge/Unit_Economics-4CAF50?style=for-the-badge&logo=graph&logoColor=white)
-![Product Hypotheses](https://img.shields.io/badge/Product_Hypotheses-2196F3?style=for-the-badge&logo=idea&logoColor=white)
-![Metrics](https://img.shields.io/badge/Metrics-FFC107?style=for-the-badge&logo=data&logoColor=white)
-![Z-Test](https://img.shields.io/badge/Z-Test-673AB7?style=for-the-badge&logo=analytics&logoColor=white)
-![T-Test](https://img.shields.io/badge/T-Test-9C27B0?style=for-the-badge&logo=analytics&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A/B_Testing-E91E63?style=for-the-badge&logo=splitbee&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**Istochnik**](https://github.com/dany-simonov/Istochnik) | AI media verification platform - detects AI-generated images, audio, video & text. Live product with web dashboard and authenticity scoring | Python · FastAPI · React · Appwrite · ML APIs |
+| [**Connection**](https://github.com/dany-simonov/Connection) | Decentralized P2P messenger that works without internet. Custom reliable protocol over libp2p, WebRTC calls, NAT traversal | Go · libp2p · React · TypeScript · WebRTC |
+| [**KrokOS Graph**](https://github.com/dany-simonov/krok-mvp) | B2B infrastructure visualization & monitoring platform. Interactive dependency graph, real-time alerts, multi-level test coverage (~70%) | TypeScript · React · Node.js · Playwright |
+| [**Benefit Portal**](https://github.com/dany-simonov/Benefit-portal) | Corporate benefits management platform with HR analytics dashboard and AI-powered recommendations. Built for a championship case | TypeScript · React · Recharts · shadcn/ui |
+| [**StudySphere**](https://github.com/dany-simonov/SS) | AI-powered learning platform with multi-model chat assistant, quiz system and visual concept generator. 185+ commits | Python · Flask · JS · g4f |
 
 ---
 
-## 🚀 Основные проекты
+## 🛠 Stack
 
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| [StudySphere (SS)](https://github.com/dany-simonov/SS) | Образовательная платформа с AI-ассистентом на 13 нейросетях, интерактивные квизы и адаптивный фронтенд | Python, Flask, g4f, JavaScript |
-| [benefit-ai-portal](https://github.com/dany-simonov/benefit-ai-portal) | MVP кафетерия льгот для компании, кейс чемпионата | TypeScript, React, Node.js, PostgreSQL, AI |
-| [krok-mvp](https://github.com/dany-simonov/krok-mvp) | MVP KrokOS Graph — это платформа для визуализации, мониторинга и управления инфраструктурой | TypeScript, React, Python, FastAPI, PostgreSQL|
-| [Copilot-for-shopping](https://github.com/dany-simonov/Copilot-for-shopping) | AI-ассистент для покупок: рекомендации, анализ цен, генерация описаний товаров | Python, Flask, AI |
-| [game-for-Yandex-Lyceum](https://github.com/dany-simonov/game-for-Yandex-Lyceum) | 2D платформер с уровнями, достижениями и анимациями, разработанный на Pygame, учебный проект из Яндекс.Лицея | Python, Pygame, SQLite |
-| [QUANTUM-laboratory](https://github.com/dany-simonov/QUANTUM-laboratory) | Образовательная игра для школьников по физике, созданная для геймхака | Python, Pygame |
-| [YL_PYQT_project](https://github.com/dany-simonov/YL_PYQT_project) | Игра крестики-нолики с GUI на PyQt5 и SQLite, учебный проект из Яндекс.Лицея | Python, PyQt5, SQLite |
+**Product & Analytics**  
+![Product Thinking](https://img.shields.io/badge/Product_Thinking-4CAF50?style=flat-square&logo=graph&logoColor=white)
+![Unit Economics](https://img.shields.io/badge/Unit_Economics-4CAF50?style=flat-square&logo=graph&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-E91E63?style=flat-square&logo=splitbee&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Engineering**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 📫 Контакты
+## 📊 GitHub Stats
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dany_simonov)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dany.ssimon2007@yandex.ru)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dany-simonov)
-
----
-
-## 📈 Моя статистика GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dany-simonov&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dany-simonov&theme=tokyonight" width="48%" />
-
-<br>
-<br>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dany-simonov&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-
-<br>
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dany-simonov&theme=tokyonight)](https://github.com/dany-simonov)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dany-simonov&theme=tokyonight)](https://github.com/dany-simonov)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dany-simonov&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7)](https://github.com/dany-simonov)
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dany-simonov&theme=tokyonight" width="100%" />
 
 </div>
-
