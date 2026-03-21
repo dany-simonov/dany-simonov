@@ -2,9 +2,11 @@
 # Daniil Simonov
 
 **Technical Product Manager** I design and ship full-stack AI products end-to-end.  
-Economics & Data Science student · Moscow
+HSE Moscow, Economics & Data Science
 
-I work at the intersection of product thinking and engineering: I define the problem, architect the solution, and build it. My projects range from AI-powered media verification platforms to decentralized P2P communication systems.
+
+I specialize at the intersection of development, data analytics, and business - from architecture design to hypothesis validation and business model building.
+Experience in fintech: frontend development for B2B SaaS products, business requirements analysis, and user scenario analytics. I bridge technical implementation with product vision and present results in clear, actionable formats for teams and stakeholders. I focus on building solutions that work - both at the code level and at the business logic level.
 
 ---
 
