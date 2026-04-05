@@ -13,6 +13,7 @@ Experience in fintech: frontend development for B2B SaaS products, business requ
 | Project | What it does | Stack |
 |---|---|---|
 | [**Istochnik**](https://github.com/dany-simonov/Istochnik) | AI media verification platform - detects AI-generated images, audio, video & text. Live product with web dashboard and authenticity scoring | Python · FastAPI · React · Appwrite · ML APIs |
+| [**MTS Cup IT 2026**](https://github.com/dany-simonov/mts-case) | Geospatial ML pipeline: height prediction for 191k Saint Petersburg buildings via polygon matching + CatBoost R²=0.97, 11-cluster urban segmentation for telecom network planning. Finalist Cup IT 2026 | Python · CatBoost · GeoPandas · Shapely |
 | [**Connection**](https://github.com/dany-simonov/Connection) | Decentralized P2P messenger that works without internet. Custom reliable protocol over libp2p, WebRTC calls, NAT traversal | Go · libp2p · React · TypeScript · WebRTC |
 | [**KrokOS Graph**](https://github.com/dany-simonov/krok-mvp) | B2B infrastructure visualization & monitoring platform. Interactive dependency graph, real-time alerts, multi-level test coverage (~70%) | TypeScript · React · Node.js · Playwright |
 | [**Benefit Portal**](https://github.com/dany-simonov/Benefit-portal) | Corporate benefits management platform with HR analytics dashboard and AI-powered recommendations. Built for a championship case | TypeScript · React · Recharts · shadcn/ui |
