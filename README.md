@@ -1,7 +1,7 @@
 
 # Daniil Simonov
 
-**Technical Product Manager** HSE Moscow, Economics & Data Analysis. I design and ship full-stack AI products end-to-end.  
+**Technical Project Manager** HSE Moscow, Economics & Data Analysis. I design and ship full-stack AI products end-to-end.  
 
 I specialize at the intersection of development, data analytics, and business - from architecture design to hypothesis validation and business model building.
 Experience in fintech: frontend development for B2B SaaS products, business requirements analysis, and user scenario analytics. I bridge technical implementation with product vision and present results in clear, actionable formats for teams and stakeholders. I focus on building solutions that work - both at the code level and at the business logic level.
