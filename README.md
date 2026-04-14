@@ -95,3 +95,11 @@ Experience in fintech: frontend development for B2B SaaS products, business requ
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dany-simonov&theme=tokyonight&v=1" width="100%" />
+
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dany-simonov&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/dany-simonov)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dany-simonov&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&v=1)](https://github.com/dany-simonov)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-simonov&theme=tokyonight&layout=compact&hide_border=true" width="100%" />
